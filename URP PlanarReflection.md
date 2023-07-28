@@ -1,7 +1,3 @@
----
-typora-root-url: ../GraphicRenderingNote/png
----
-
 # URP PlanarReflection
 
 
